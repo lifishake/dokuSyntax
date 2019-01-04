@@ -1,4 +1,4 @@
-# dokuSyntax
+# doku-dracula
 Notepad++ Highlighting for dokuWiki
 
  * Download file to theme directory [your choice]
